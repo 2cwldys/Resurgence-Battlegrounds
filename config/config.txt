@@ -6,10 +6,10 @@ RESOURCE_WEBSITE nil
 
 ## Server name: This appears at the top of the screen in-game and in the BYOND hub. Remove the # infront of SERVERNAME and replace 'tgstation' with the name of your choice.
 ## IMPORTANT: Don't include special characters such as ' in here
-SERVER_NAME Lebensraum Beta
+SERVER_NAME Resurgence Battlegrounds
 
 ## What features do you want to advertise on your hub message?
-HUB_FEATURES light-medium roleplay WW2 Server
+HUB_FEATURES Medium-High RP | Playing with Lebensraum Beta
 
 ## The main content of your hub message
 HUB_BODY <i>WW2, SEASON, TIME_OF_DAY</i><br>
@@ -172,28 +172,28 @@ ALLOW_TESTING_STAFF
 SERVER 192.210.161.174:23999
 
 ## forum address
-FORUMURL http://ww13.boards.net/
+FORUMURL https://discord.gg/Tnrms9Y
 
 ## donation address
-DONATIONURL https://www.paypal.me/WW13Server
+DONATIONURL https://discord.gg/Tnrms9Y
 
 ## rules address
-RULESURL http://mechahitler.co.nf/lebensraum/rules.html
+RULESURL https://discord.gg/Tnrms9Y
 
 ## discord address
-DISCORDURL https://discord.gg/PVqjqCv
+DISCORDURL https://discord.gg/Tnrms9Y
 
 ## Wiki address
-WIKIURL http://mechahitler.co.nf/wiki/media/index.php?title=Main_Page
+WIKIURL https://lebensraum.fandom.com/wiki/Lebensraum_Wiki
 
 ## Website address
-WEBSITEURL http://mechahitler.co.nf/
+WEBSITEURL https://discord.gg/Tnrms9Y
 
 ##Rules address
 # RULESURL http://mechahitler.co.nf/lebensraum/rules.html
 
 ##Github address
-GITHUBURL https://github.com/WW2-SS13/WW13/issues
+GITHUBURL https://github.com/2cwldys/Resurgence-Battlegrounds/
 
 ##Github repo id
 ##This can be found by going to https://api.github.com/users/<user name here>/repos
