@@ -9,7 +9,7 @@ RESOURCE_WEBSITE nil
 SERVER_NAME Resurgence Battlegrounds
 
 ## What features do you want to advertise on your hub message?
-HUB_FEATURES Medium-High RP | Playing with Lebensraum Beta
+HUB_FEATURES Medium-High RP | Playing with Lebensraum Beta | Hosted by 2cwldys
 
 ## The main content of your hub message
 HUB_BODY <i>WW2, SEASON, TIME_OF_DAY</i><br>
